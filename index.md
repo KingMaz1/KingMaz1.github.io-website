@@ -27,7 +27,7 @@ Experienced students understood the course better compared to the beginner stude
 
 If we plotted the results for difficulty and understanding in the same graph, we would see how the two were oppositely correlated with increasing experience – difficulty decreased while understanding increased.
 
-<img src="/imgs/chart2.png" alt="line plot comparing difficulty and understanding scores across experience levels" width="700"/>
+<img src="/static/imgs/chart2.png" alt="line plot comparing difficulty and understanding scores across experience levels" width="700"/>
 
 ### Would Recommend Scores by Experience Level
 
