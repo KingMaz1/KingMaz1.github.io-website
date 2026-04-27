@@ -1,5 +1,4 @@
 # Welcome to Jekyll!
-#
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
@@ -18,16 +17,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: EX09 website
+email: kingmazi@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  Site created for comp110 ex09 excersise. Answers the question of is comp110 easier for people with prior coding experience?
+baseurl: "/website" # the subpath of your site, e.g. /blog
+url: "KingMaz1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: N/A
+github_username:  KingMaz1
 
 # Build settings
 # Build settings
