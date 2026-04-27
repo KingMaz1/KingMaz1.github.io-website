@@ -21,7 +21,7 @@ title: EX09 website
 email: kingmazi@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Site created for comp110 ex09 excersise. Answers the question of is comp110 easier for people with prior coding experience?
-baseurl: "/website" # the subpath of your site, e.g. /blog
+baseurl: "/KingMaz1.github.io-website" # the subpath of your site, e.g. /blog
 url: "https://KingMaz1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: N/A
 github_username:  KingMaz1
