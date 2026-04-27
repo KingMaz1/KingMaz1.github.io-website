@@ -21,19 +21,19 @@ Data obtained from the COMP110 student survey conducted early in the semester wa
 
 Experienced students understood the course better compared to the beginner students. Those with less than one month of experience had an average of 4/7 while those with more than two years had an average of 5.5.
 
-<img src="/website/static/imgs/chart1.png" alt="bar chart showing average understanding score by prior experience level" width="700"/>
+<img src="/static/imgs/chart1.png" alt="bar chart showing average understanding score by prior experience level" width="700"/>
 
 ### Difficulty vs. Understanding Across Experience Levels
 
 If we plotted the results for difficulty and understanding in the same graph, we would see how the two were oppositely correlated with increasing experience – difficulty decreased while understanding increased.
 
-<img src="/website/static/imgs/chart2.png" alt="line plot comparing difficulty and understanding scores across experience levels" width="700"/>
+<img src="/imgs/chart2.png" alt="line plot comparing difficulty and understanding scores across experience levels" width="700"/>
 
 ### Would Recommend Scores by Experience Level
 
 Despite the increase in difficulty for the beginners, the would_recommend results were very high in all the experience groups. It seemed that most students, irrespective of their experience, recommended that other students take COMP110.
 
-<img src="/website/static/imgs/chart3.png" alt="box plot showing would recommend scores by prior experience level" width="700"/>
+<img src="/static/imgs/chart3.png" alt="box plot showing would recommend scores by prior experience level" width="700"/>
 
 ## Conclusion
 
